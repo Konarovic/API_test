@@ -1,37 +1,4 @@
 {
-    "Students": [
-        {
-            "StudentID": "0",
-            "StudentName": "David Wu",
-            "StudentCursus": "DA",
-            "StudentCourses": [
-                8,
-                7,
-                1,
-                4
-            ]
-        },
-        {
-            "StudentID": "1",
-            "StudentName": "Miguel Reyes",
-            "StudentCursus": "DA",
-            "StudentCourses": [
-                2,
-                8,
-                6,
-                3
-            ]
-        },
-        {
-            "StudentID": "2",
-            "StudentName": "Karen Murphy",
-            "StudentCursus": "DS",
-            "StudentCourses": [
-                4,
-                9,
-                5,
-                3
-            ]
-        }
-     ]
+    "StudentsList": [0, 1, 2]
+     
 }
